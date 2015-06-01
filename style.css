@@ -1,3 +1,35 @@
+/* GENERAL */
+
+.vc_container {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+#vc_preloader{
+    display:none;
+}
+
+#preloader{
+    display: none;
+}
+
+.gray-text{
+    color: gray;
+}
+
+.dark-gray-text{
+    color: #cccccc;
+}
+
+.vc_element {
+  padding: 0px !important;
+}
+
+.vc_col-sm-12 ,.wpb_column ,.vc_column_container{
+    padding: 0px !important;
+}
+
 /* HERO AREA*/
 
 #hero-area{
