@@ -4,12 +4,28 @@
   background-color: #27282d;
   color: whitesmoke;
   padding-top: 100px;
+  text-align: justify;
 }
 .hero-image{
   width: 100%;
 }
 
+/* TEXT AREA STYLES*/
+
+#text-area{
+  text-align: justify;
+  line-height: 28px!important;
+}
+
+#text-area h2{
+  padding-top: 40px;
+  color:#27282d;
+}
 
 #text-area ul{
   list-style: none;
+}
+
+#text-area .strong{
+  font-weight: bold;
 }
