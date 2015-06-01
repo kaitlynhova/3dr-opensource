@@ -1,0 +1,15 @@
+/* HERO AREA*/
+
+#hero-area{
+  background-color: #27282d;
+  color: whitesmoke;
+  padding-top: 100px;
+}
+.hero-image{
+  width: 100%;
+}
+
+
+#text-area ul{
+  list-style: none;
+}
